@@ -29,4 +29,4 @@ Cosas que faltan:
 
 Congresos en los que se utilizó:
 
-Congreso Juventud Radical Buenos Aires- Saladillo 2017.
+Congreso Juventud Radical Buenos Aires- Saladillo 2017: https://congresoucr.000webhostapp.com/
