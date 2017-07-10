@@ -1,0 +1,111 @@
+html{ background-color:black;}
+
+* {
+     color:white;
+     font-family:sans-serif;
+
+}
+
+#fh {
+    border-style:solid;
+    border-radius:1em;
+    border-color:white;
+    width:46%;
+    height: 5em;
+    font-size:large;
+    float:left;
+    margin-right:1em;
+}
+
+#fecha {
+
+    width: 46%;
+    float:left;
+}
+
+#hora {
+
+    width: 48%;
+    float:left;
+    text-align:right;
+
+}
+
+
+#quorum {
+    border-style:solid;
+    border-radius:1em;
+    border-color:white;
+    width:48%;
+    height: 5em;
+    float:left;
+    font-size:large;
+    margin-left:1em;
+    text-align:center;
+}
+
+#qu {
+    font-size:3.8em;
+    font-weight:bold;
+}
+
+#titulo {
+    float:left;
+    width:50%;
+    margin:1em;
+    font-size:1.5em;
+}
+
+#presentes {
+    float:left;
+    margin-top:1em;
+    width: 43%;
+
+}
+
+#pr{
+    width:60%;
+    float:left;
+    font-size:2em;
+
+}
+
+#pn{
+
+    width:25%;
+    float:left;
+    text-align:center;
+    font-size:2em;
+}
+
+#au{
+    width:60%;
+
+    float:left;
+    font-size:2em;
+
+
+}
+
+#an{
+
+    width:25%;
+    float:left;
+    text-align:center;
+    font-size:2em;
+}
+
+#logo{
+
+  position:fixed;
+  margin-left:15em;
+  margin-top:28em;
+}
+
+#soft{
+    position:fixed;
+    margin-left:10em;
+    margin-top:17em;
+    color:rgba(255, 255, 255, 0.3);
+
+}
