@@ -1,4 +1,6 @@
 # QuorumApp
+
+
 Sistema simple para el recuento de congresales integrado con el webhook Eventbrite
 
 
@@ -15,6 +17,12 @@ y control para evitar que sea usado con malas intenciones.
 
 El aspecto de la página web está basado en la pantalla que se puede ver en el Congreso de la Nación- Argentina.
 (http://bucket1.glanacion.com/anexos/fotos/59/2122959.jpg)
+
+
+Cosas que faltan:
+-Hacer el aspecto adaptable a más pantallas, en el momento solo está adaptado a la computadora que fue utilizada en el congreso.
+-Mejorar el sistema de checkout, se tendría que poder uncheckear a secciones enteras (manejadas por el tipo de entrada en Eventbrite).
+-Mostrar el nombre de los congresales presentes (Se debe utilizar la API de Eventbrite)
 
 
 
