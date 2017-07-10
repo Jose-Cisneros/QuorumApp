@@ -20,6 +20,7 @@ El aspecto de la página web está basado en la pantalla que se puede ver en el 
 
 
 Cosas que faltan:
+
 -Hacer el aspecto adaptable a más pantallas, en el momento solo está adaptado a la computadora que fue utilizada en el congreso.
 -Mejorar el sistema de checkout, se tendría que poder uncheckear a secciones enteras (manejadas por el tipo de entrada en Eventbrite).
 -Mostrar el nombre de los congresales presentes (Se debe utilizar la API de Eventbrite)
