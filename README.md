@@ -3,6 +3,8 @@
 
 Sistema simple para el recuento de congresales integrado con el webhook Eventbrite
 
+![alt text](http://bucket1.glanacion.com/anexos/fotos/59/2122959.jpg)
+
 
 QuorumApp es un sistema desarrollado para su uso en congresos en los que se necesite realizar un recuento de presentes.
 El funcionamiento es bastánte básico ya que lo único que se hace es leer el archivo contador cada 3 segundos y actualizar por AJAX
@@ -16,10 +18,10 @@ El sistema ya fue utilizado en la práctica demostrando que cumple su función, 
 y control para evitar que sea usado con malas intenciones.
 
 El aspecto de la página web está basado en la pantalla que se puede ver en el Congreso de la Nación- Argentina.
-(http://bucket1.glanacion.com/anexos/fotos/59/2122959.jpg)
 
 
-Cosas que faltan:
+
+<b> Cosas que faltan: </b>
 
 -Hacer el aspecto adaptable a más pantallas, en el momento solo está adaptado a la computadora que fue utilizada en el congreso.
 -Mejorar el sistema de checkout, se tendría que poder uncheckear a secciones enteras (manejadas por el tipo de entrada en Eventbrite).
@@ -27,6 +29,7 @@ Cosas que faltan:
 
 
 
-Congresos en los que se utilizó:
+<h1><b>Congresos en los que se utilizó: </b></h1>
 
 Congreso Juventud Radical Buenos Aires- Saladillo 2017
+![alt text](http://infoblancosobrenegro.com/media/W1siZiIsIm5vdGljaWFzLzE3Mjc4L2ZvdG8tODI4OC5qcGVnIl0sWyJwIiwidGh1bWIiLCI4MDB4Il1d/1.jpg?sha=8f9a47c48a0ccbb7)
